@@ -37,4 +37,4 @@ index.html
 styles.css
 README.md (короткое описание проекта)
 </pre>
-<div align="center"> <div>📤 Сдача</div> <p>Отправить ссылку на репозиторий GitHub или в личные сообщения архив ZIP.</p> <p>⏳ Дедлайн: 7 дней </p> <a href="https://www.eyecodeuniversity.ru">www.eyecodeuniversity.ru</a> </div>
+<div align="center"> <div>📤 Сдача</div> <p>Отправить ссылку на репозиторий GitHub или в личные сообщения архив ZIP.</p> <p>⏳ Дедлайн: 14 дней </p> <a href="https://www.eyecodeuniversity.ru">www.eyecodeuniversity.ru</a> </div>
