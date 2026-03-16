@@ -57,4 +57,4 @@ EXP: 720 / 1000
 
 скриншоты ваших проектов
 <div align="center"> <div>📤 Сдача</div> <p>Отправить ссылку на репозиторий GitHub или в личные сообщения архив ZIP.</p> <p>⏳ Дедлайн: 14 дней </p> <a href="https://www.eyecodeuniversity.ru">www.eyecodeuniversity.ru</a> </div>
-<img src="young-hacker-icon.jpg">
+<img src="young-hackers-icon.jpg">
